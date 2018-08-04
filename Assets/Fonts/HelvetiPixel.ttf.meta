@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0a12b554f2fd9a04b9523ff5361d7f8d
+timeCreated: 1502634212
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HelvetiPixel
+  fontNames:
+  - 48656c76657469506978656c
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

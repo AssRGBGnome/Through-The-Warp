@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4d9864f4166612b40b828636786c87c8
+timeCreated: 1502634209
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NESCyrillic
+  fontNames:
+  - 4e4553437972696c6c6963
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
